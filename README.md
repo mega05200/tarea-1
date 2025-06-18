@@ -10,3 +10,5 @@
 # tarea-3-final
 # Examen_1
 # examen.1.2
+# proyecto1.0
+# proyecto1.0
